@@ -7,8 +7,5 @@ def odd(n):
         
         print(2*n-1)
 
-
-
-
 odd(13)
 
